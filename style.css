@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a.btn, .form-floating , button.btn{
+   margin: 5px 5px;
+
+}
+
+.container{
+    width: 960px;
+}
+
+.main-article{
+    background-image: url('https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-position: 10%;
+    
+}
+
